@@ -1,0 +1,29 @@
+{
+  "tours": [
+    {
+      "id": "5bb3",
+      "name": "Tour A",
+      "price": "500",
+      "status": "active"
+    },
+    {
+      "id": "2fd0",
+      "name": "Tour B",
+      "price": "500",
+      "status": "active"
+    },
+    {
+      "id": "ab43",
+      "name": "Tour C",
+      "price": "500",
+      "status": "active"
+    },
+    {
+      "id": "e5e7",
+      "name": "Tour D",
+      "price": "500",
+      "status": "active"
+    }
+  ],
+  "user": []
+}

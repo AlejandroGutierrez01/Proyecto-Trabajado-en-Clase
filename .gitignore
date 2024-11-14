@@ -1,0 +1,3 @@
+#Ignorar archivos para que no se suban a github
+node_modules
+.env
